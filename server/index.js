@@ -18,6 +18,7 @@ const PORT = process.env.PORT || 4000;
 
 //database connect
 database.connect();
+
 //middlewares
 app.use(express.json());
 app.use(express.urlencoded({extended: true}))//for using postman
@@ -28,13 +29,13 @@ app.use(
 		credentials:true,
 	})
 )
-
 app.use(
 	fileUpload({
 		useTempFiles:true,
 		tempFileDir:"/tmp",
 	})
 )
+
 //cloudinary connection
 cloudinaryConnect();
 

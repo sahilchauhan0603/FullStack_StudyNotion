@@ -4,11 +4,13 @@ const SubSection = require("../models/SubSection")
 const CourseProgress = require("../models/CourseProgress")
 const Course = require("../models/Course")
 
+
 exports.updateCourseProgress = async (req, res) => {
   const { courseId, subsectionId } = req.body
   const userId = req.user.id
 
   try {
+    
     // Check if the subsection is valid
     const subsection = await SubSection.findById(subsectionId)
     if (!subsection) {

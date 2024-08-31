@@ -46,7 +46,6 @@ exports.showAllCategories = async (req, res) => {
 };
 
 //categoryPageDetails 
-
 exports.categoryPageDetails = async (req, res) => {
     try {
       const { categoryId } = req.body
