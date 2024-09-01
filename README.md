@@ -536,5 +536,5 @@ Thank you for your invaluable contributions to our project! Your support is imme
 <a href="https://github.com/Muskansahuincredible/StudyNotion-An-Online-Education-Platform/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Muskansahuincredible/StudyNotion-An-Online-Education-Platform" />
 </a>
-</center> --> -->
-<p align="right">(<a href="#top">back to top</a>)</p>
+</center> -->
+<!-- <p align="right">(<a href="#top">back to top</a>)</p> -->
