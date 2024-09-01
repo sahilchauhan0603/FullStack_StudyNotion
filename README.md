@@ -9,7 +9,7 @@
 
 ![s1](https://github.com/Muskansahuincredible/StudyNotion-An-Online-Education-Platform/assets/133582566/749ced9e-269c-4ab4-aae5-f7ba098da825)
 
-<table align="center">
+<!-- <table align="center">
     <thead align="center">
         <tr border: 1px;>
             <td><b>🌟 Stars</b></td>
@@ -49,7 +49,7 @@
       <td>GirlScript Summer of Code is a three-month-long Open Source Program conducted every summer by GirlScript Foundation. It is an initiative to bring more beginners to Open-Source Software Development.</td>
    </tr>
 
-</table>
+</table> -->
 
 <hr>
 
@@ -513,7 +513,7 @@ Before you begin, ensure you have the following prerequisites installed:
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- Open Source Programs -->
 
-<!-- Code of conduct -->
+<!-- Code of conduct
 <div>
 <h2><img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" height="35"> Code of Conduct</h2>
 </div>
@@ -526,7 +526,7 @@ This project is part of GirlScript Summer of Code. We enthusiastically invite co
 
 <hr>
  <!-- Contributors -->
-<div>
+<!-- <div>
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35"> Contributors</h2>
 </div>
 
@@ -536,5 +536,5 @@ Thank you for your invaluable contributions to our project! Your support is imme
 <a href="https://github.com/Muskansahuincredible/StudyNotion-An-Online-Education-Platform/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Muskansahuincredible/StudyNotion-An-Online-Education-Platform" />
 </a>
-</center>
+</center> --> -->
 <p align="right">(<a href="#top">back to top</a>)</p>
